@@ -21,5 +21,6 @@ private:
 	// Level objects
 	GameObject testSprite;
 	sf::Texture texture;
+	sf::Texture enemyTexture, enemyTexture2, bgTexture, cTexture;
 
 };
